@@ -28,7 +28,7 @@ A fully responsive front-end clone of the Flipkart homepage built using **HTML**
 
 ## 📸 Preview
 
-*(Add a screenshot of the homepage here)*
+![image](https://github.com/user-attachments/assets/ade0abfb-e869-42cd-b991-02f87019524f)
 
 ---
 
@@ -36,7 +36,7 @@ A fully responsive front-end clone of the Flipkart homepage built using **HTML**
 
 1. Clone the repository
    ```bash
-   git clone 
+   git clone https://github.com/Piyush9394/Flipkart-UI-Clone.git
    ```
 2. Navigate to the project folder
 3. Open `flipkart.html` in your browser
@@ -61,3 +61,4 @@ This project is for educational and practice purposes only. All images and names
 ## 📬 Feedback
 
 Feel free to raise issues or suggest improvements!
+
